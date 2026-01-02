@@ -11,7 +11,7 @@ A simple Java console application that deletes files of a specific type/extensio
 - Displays the total number of files present in the directory.
 - Accepts the file extension (e.g., `.txt`, `.log`, `.jpg`) to delete.
 - Deletes all matching files from the given directory.
-- Provides clear user-friendly messages.
+- Provides clear user-friendly messagess.
 
 ---
 
